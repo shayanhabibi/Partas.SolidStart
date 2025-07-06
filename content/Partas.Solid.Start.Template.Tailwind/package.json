@@ -1,0 +1,25 @@
+{
+  "name": "partas-solid-start-template",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@solidjs/start": "^1.1.0",
+    "@solidjs/router": "^0.15.3",
+    "@solidjs/meta": "^0.29.4",
+    "@solid-devtools/overlay": "^0.33.5",
+    "solid-devtools": "^0.34.3",
+    "solid-js": "^1.9.5",
+    "vinxi": "^0.5.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.0.7",
+    "tailwindcss": "^4.0.7"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

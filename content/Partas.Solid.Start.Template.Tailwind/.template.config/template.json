@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Shayan Habibi",
+  "classifications": ["Fable", "Solid-JS", "Tailwindcss"],
+  "identity": "Partas.Solid.Start.Tailwind.DevTools",
+  "name": "SolidStart with Tailwind and DevTools",
+  "shortName": "tailwind-devtools",
+  "sourceName": "Partas.Solid.Start.Template",
+  "tags": {
+    "type": "solution",
+    "language": "F#"
+  }
+}

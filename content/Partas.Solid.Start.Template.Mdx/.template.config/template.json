@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Shayan Habibi",
+  "classifications": ["Fable", "Solid-JS", "mdx"],
+  "identity": "Partas.Solid.Start.Mdx.DevTools",
+  "name": "SolidStart with Mdx and DevTools",
+  "shortName": "mdx-devtools",
+  "sourceName": "Partas.Solid.Start.Template",
+  "tags": {
+    "type": "solution",
+    "language": "F#"
+  }
+}
